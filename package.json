@@ -45,7 +45,7 @@
         "postinstall": "node postinstall.js"
     },
     "dependencies": {
-        "tslib": "^1.10.0"
+        "tslib": "^1.11.0"
     },
     "devDependencies": {
         "@types/miniprogram-wxs": "^2.6.2",
